@@ -20,3 +20,7 @@ t.test(comb ~ condition, dt[color == "green"])
 power.t.test(n = 90, delta = 6, sd = 10, sig.level = 0.05)
 
 dt <- read.csv("RS.csv")
+
+#By Roman Solodkov 
+paste0("Val", "Bel")
+
